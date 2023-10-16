@@ -852,7 +852,7 @@ body {
 .l-news1 .news1-conte .date-news1 a::after {
     content: "";
     position: absolute;
-    background: #ff3c78;
+    background: #3c7aff;
     height: 3px;
     width: 100%;
     left: 0;
@@ -893,7 +893,7 @@ body {
 .l-news2 .news2-conte .date-news2 a::after {
     content: "";
     position: absolute;
-    background: #ff3c78;
+    background: #3c59ff;
     height: 3px;
     width: 100%;
     left: 0;
@@ -934,7 +934,7 @@ body {
 .l-news3 .news3-conte .date-news3 a::after {
     content: "";
     position: absolute;
-    background: #ff3c78;
+    background: #3c70ff;
     height: 3px;
     width: 100%;
     left: 0;
